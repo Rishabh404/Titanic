@@ -5,7 +5,8 @@ dataset like Age, Gender, Number of Siblings onboard, Fare etc. I have used two 
 likely to survive the sinking and which were not.
 
 1. XgBoost:
-   This machine learning method was able to achieve almost 83% accuracy on the predicted values.
+   This machine learning method was able to achieve almost 83% accuracy on the predicted values. The missing values were handled
+   automatically by this model.
    
 2. Random Forest:
    This machine learning model performed the best out of the two implemented, achieving almost 90% accuracy. The missing values before the
